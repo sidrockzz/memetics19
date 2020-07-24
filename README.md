@@ -9,14 +9,12 @@
 - 🌱 I’m currently learning Django, ML and Data Science
 - 👯 I’m looking to collaborate on  any open source related to Django
 - 💬 Ask me about Django and Ml
-- 📫 How to reach me: https://www.linkedin.com/in/shreeda-bhat-ab3543172/
 - ⚡ Fun fact: Still a learner 
 
 
 ## 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=memetics19&show_icons=true&hide_border=true)
-
 ## I WORK ON
 
 <table>
@@ -65,6 +63,16 @@
     </tr>
   </tbody>
 </table>
+
+## How to reach me
+<a href="https://www.linkedin.com/in/shreeda-bhat-ab3543172/">
+  <img align="left" alt="Shreeda's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+ <a href="https://twitter.com/bhat_shreeda">
+  <img align="left" alt="Shreeda's Twitter" width="27px" height="20px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+</br>
 
 
 
