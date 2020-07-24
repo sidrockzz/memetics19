@@ -89,7 +89,7 @@
 ## Organization 
 
 <img align="left" height = "64px" src= "https://global-uploads.webflow.com/5e729ef3ef0f906b804d4f27/5e9d9c6619e8041bf8421468_coronawhy-white.png">
-<img align="left" height = "72px" src= "https://astaqc.com/wp-content/uploads/2020/03/favicon-astaqc-new.png">
+<img align="left" height = "72px" src= "https://github.com/memetics19/memetics19/blob/master/download.png">
 
 
 
