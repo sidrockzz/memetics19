@@ -11,7 +11,7 @@
 - 💬 Ask me about Django and Ml
 - ⚡ Fun fact: Still a learner 
 
-<img align="right" alt="unwanted"  width="370px" src="https://github.com/memetics19/memetics19/undraw_working_from_anywhere_ub67.svg" />
+<img align="right" alt="unwanted"  width="370px" src="https://github.com/memetics19/memetics19/blob/master/undraw_working_from_anywhere_ub67.svg" />
 
 
 ### My Stats
