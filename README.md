@@ -67,17 +67,6 @@
   </tbody>
 </table>
 
-## Organization 
-
-<img align="left" height = "64px" src= "https://global-uploads.webflow.com/5e729ef3ef0f906b804d4f27/5e9d9c6619e8041bf8421468_coronawhy-white.png">
-
-
-<img align="left" height = "64px" src= "https://astaqc.com/wp-content/uploads/2020/04/cropped-logo-final-without-circle.png">
-
-
-
-
-
 ## How to reach me
 <a href="https://www.linkedin.com/in/shreeda-bhat-ab3543172/">
   <img align="left" alt="Shreeda's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -87,6 +76,21 @@
   <img align="left" alt="Shreeda's Twitter" width="27px" height="20px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 </br>
+
+
+
+
+
+
+
+
+
+## Organization 
+
+<img align="left" height = "64px" src= "https://global-uploads.webflow.com/5e729ef3ef0f906b804d4f27/5e9d9c6619e8041bf8421468_coronawhy-white.png">
+<img align="left" height = "72px" src= "https://astaqc.com/wp-content/uploads/2020/04/cropped-logo-final-without-circle.png">
+
+
 
 
 
