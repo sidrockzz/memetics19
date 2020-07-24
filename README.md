@@ -11,3 +11,8 @@
 - 💬 Ask me about Django and Ml
 - 📫 How to reach me: https://www.linkedin.com/in/shreeda-bhat-ab3543172/
 - ⚡ Fun fact: Still a learner 
+
+
+# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=memetics19&show_icons=true&hide_border=true)
