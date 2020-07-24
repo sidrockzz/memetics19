@@ -11,7 +11,7 @@
 - 💬 Ask me about Django and Ml
 - ⚡ Fun fact: Still a learner 
 
-
+<img align="right" alt="GIF"  width="370px" src="undraw_working_from_anywhere_ub67.svg" />
 ## 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=memetics19&show_icons=true&hide_border=true)
