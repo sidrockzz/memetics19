@@ -77,7 +77,11 @@
   <img align="left" alt="Shreeda's Twitter" width="27px" height="20px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 </br>
-
+# Haha, caught you 
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/memetics19/count.svg" />
+</p>
 ## Organization 
 
 <img align="left" height = "64px" src= "https://github.com/memetics19/memetics19/blob/master/index.jpg">
@@ -85,12 +89,6 @@
 
 
 
-
-# Haha, caught you 
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/memetics19/count.svg" />
-</p>
 
 
 
