@@ -86,6 +86,15 @@
 
 
 
+# Haha, caught you 
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/memetics19/count.svg" />
+</p>
+
+
+
+
 
 
 
