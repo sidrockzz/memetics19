@@ -68,12 +68,6 @@
   </tbody>
 </table>
 
-## Organization 
-
-<img align="left" height = "64px" src= "https://github.com/memetics19/memetics19/blob/master/index.jpg">
-<img align="left" height = "64px" src= "https://media.glassdoor.com/sqll/3226439/astaqc-consulting-squarelogo-1582184753131.png">
-
-
 ## How to reach me
 <a href="https://www.linkedin.com/in/shreeda-bhat-ab3543172/">
   <img align="left" alt="Shreeda's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -83,6 +77,14 @@
   <img align="left" alt="Shreeda's Twitter" width="27px" height="20px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 </br>
+
+## Organization 
+
+<img align="left" height = "64px" src= "https://github.com/memetics19/memetics19/blob/master/index.jpg">
+<img align="left" height = "64px" src= "https://media.glassdoor.com/sqll/3226439/astaqc-consulting-squarelogo-1582184753131.png">
+
+
+
 
 
 
